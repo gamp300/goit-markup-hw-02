@@ -37,6 +37,11 @@ header a {
     color: black;
 }
 
-footer "WebStudio"{
-    #2196F3
+.WebStudio{
+    color: #2196F3;
 }
+
+nav a:active {
+    color: #2196F3;
+}
+.:active
