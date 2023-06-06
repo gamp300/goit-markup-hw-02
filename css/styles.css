@@ -1,4 +1,40 @@
 
+.WebStudio {
+    font-family: Raleway;
+    color: #2196F3;
+    Weight: 700;
+    width: 145px;
+}
+
+.info {
+    color: #757575;
+    Weight: 500;
+}
+
+header a {
+    font-family: "Roboto", "Arial", "sans-serif";
+    Weight: 500;
+    font-style: normal;
+}
+
+.button-estudio {
+    cursor: pointer;
+    color: #ffffff;
+    background-color: #2196F3;
+    width: 197px;
+    height: 30px;
+    font-weight: 700;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.06em;
+}
+
+.button-portafolio:hover{
+    cursor: pointer;
+    color: #ffffff;
+    background-color: #2196F3;
+}
+
 body{
     font-family: "Roboto", "Arial", "sans-serif";
     font-size: 18px;
@@ -6,44 +42,43 @@ body{
     font-weight: 50;
 }
 
-.title {
-    color: rgb(255, 255, 255);
-    background: #30303a;
-    padding: 10%;
-    width: 100%;
-}
-
 h1 {
     font-family: 'Raleway', sans-serif;
     font-weight: 700;
 }
 
-button:hover{
-    cursor: pointer;
-    color: blue;
+h2 {
+    Width: 270px; 
+    Weight: 700;
+    Size: 36px;
+    line-height: 42px;
+    color: #212121;
+    font-weight: normal;
 }
 
-h2, h3, p {
+h3 {
+    Width: 270px;
     Weight: 700;
+    Size: 14px;
     line-height: 1.5;
-    color: var(--color-text);
+    color: #212121;
     font-weight: normal;
+}
+
+p {
+    color: #757575;
+    Weight: 400;
+}
+
+.title {
+    color: rgb(255, 255, 255);
+    background: #30303a;
+    width: 100%;
+    text-align-last: center;
 }
 
 footer a {
     color: white;
-}
-
-header a {
-    color: black;
-    Weight: 500;
-    font-family: "Roboto";
-}
-
-.WebStudio{
-    font-family: Raleway;
-    color: #2196F3;
-    width: 145px;
 }
 
 nav a:active {
