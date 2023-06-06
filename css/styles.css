@@ -1,4 +1,8 @@
 
+ul {
+    list-style: none;
+}
+
 .WebStudio {
     font-family: Raleway;
     color: #2196F3;
@@ -37,7 +41,6 @@ header a {
 
 body{
     font-family: "Roboto", "Arial", "sans-serif";
-    font-size: 18px;
     line-height: 150%;
     font-weight: 50;
 }
@@ -48,12 +51,11 @@ h1 {
 }
 
 h2 {
-    Width: 270px; 
-    Weight: 700;
+    text-align:center;
     Size: 36px;
     line-height: 42px;
     color: #212121;
-    font-weight: normal;
+    font-weight:700;
 }
 
 h3 {
@@ -85,3 +87,4 @@ nav a:active {
     color: #2196F3;
 }
 .:active
+
