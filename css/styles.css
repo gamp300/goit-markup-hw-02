@@ -1,6 +1,6 @@
 
 body{
-    font-family: "Roboto", Arial, sans-serif;
+    font-family: "Roboto", "Arial", "sans-serif";
     font-size: 18px;
     line-height: 150%;
     font-weight: 50;
@@ -24,6 +24,7 @@ button:hover{
 }
 
 h2, h3, p {
+    Weight: 700;
     line-height: 1.5;
     color: var(--color-text);
     font-weight: normal;
@@ -35,10 +36,14 @@ footer a {
 
 header a {
     color: black;
+    Weight: 500;
+    font-family: "Roboto";
 }
 
 .WebStudio{
+    font-family: Raleway;
     color: #2196F3;
+    width: 145px;
 }
 
 nav a:active {
