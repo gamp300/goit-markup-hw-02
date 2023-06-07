@@ -94,6 +94,12 @@ h3 .target{
 footer a {
     color: white;
 }
+a:link {
+    text-decoration: none;
+}
 
+a:isvited {
+    text-decoration: none;
+}
 
 
