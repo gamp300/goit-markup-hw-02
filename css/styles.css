@@ -52,10 +52,10 @@ h1 {
 
 h2 {
     text-align:center;
-    Size: 36px;
     line-height: 42px;
     color: #212121;
     font-weight:700;
+    font-size: 20px;
 }
 
 h3 {
@@ -72,6 +72,12 @@ p {
     Weight: 400;
 }
 
+h3 .target{
+    Weight: 500;
+    font-Size: 2px;
+    Width: 97px;
+}
+
 .title {
     color: rgb(255, 255, 255);
     background: #30303a;
@@ -79,12 +85,15 @@ p {
     text-align-last: center;
 }
 
+.title2 {
+    color: rgb(255, 255, 255);
+    background: #30303a;
+    width: 100%;
+}
+
 footer a {
     color: white;
 }
 
-nav a:active {
-    color: #2196F3;
-}
-.:active
+
 
