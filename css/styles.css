@@ -4,10 +4,19 @@ ul {
 }
 
 .WebStudio {
-    font-family: Raleway;
-    color: #2196F3;
-    Weight: 700;
     width: 145px;
+    Height: 31px;
+    Top: 1688px;
+    Left: 215px;
+
+    font-family: Raleway;
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 31px;
+    letter-spacing: 0.03em;
+    text-align: left;
+
+    color: #2196F3;
 }
 
 .info {
@@ -89,6 +98,7 @@ h3 .target{
     color: rgb(255, 255, 255);
     background: #30303a;
     width: 100%;
+    Weight:500;
 }
 
 footer a {
